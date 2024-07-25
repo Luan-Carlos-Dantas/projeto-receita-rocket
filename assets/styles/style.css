@@ -1,0 +1,11 @@
+:root{
+  font-size: 62.5%;
+  --bg-color:#573824;
+  --surface-color:#F0E8C2;
+  --text-color-primary:#291B1A;
+  --text-color-section:#573A37;
+  --text-color-secondary:#F0E8C2;
+  --font-h1: 4rem;
+  --font-h2: 2.4rem;
+  --font-text: 1.6rem
+}
