@@ -9,3 +9,8 @@
   --font-h2: 2.4rem;
   --font-text: 1.6rem
 }
+
+img{
+  border-radius: 16px;
+  width: 100%;
+}
